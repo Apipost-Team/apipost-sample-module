@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "files": [
     "libs",
-    "icons"
+    "icons",
+    "dist"
   ],
   "scripts": {
     "test": "jest",
@@ -64,5 +65,6 @@
     ]
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": []
 }
